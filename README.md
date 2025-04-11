@@ -76,7 +76,7 @@ The notebook displays:
 ---
 
 ## 📁 File Structure
-
+ ```bash
 qubit-bloch-visualization/
 │
 ├── qubit-bloch-visualization/
@@ -91,7 +91,7 @@ qubit-bloch-visualization/
 ├── requirements.txt                   # List of required packages
 ├── .gitignore                         # Files/folders to ignore in version control
 └── README.md                          # Project overview and documentation
-
+ ```
 
 ---
 
